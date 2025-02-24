@@ -35,6 +35,7 @@ public class UserServiceImpl implements UserService {
     public void removeUserById(long id) {
         userDao.removeUserById(id);
         //сделали каку
+        // дважды
 
     }
 
