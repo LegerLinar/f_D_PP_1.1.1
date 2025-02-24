@@ -27,6 +27,5 @@ public class Main {
         user.getAllUsers();
         user.cleanUsersTable();
         user.dropUsersTable();
-
     }
 }
